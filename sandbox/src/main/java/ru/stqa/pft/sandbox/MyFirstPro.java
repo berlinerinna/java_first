@@ -1,4 +1,6 @@
-public class MyFirst {
+package ru.stqa.pft.sandbox;
+
+public class MyFirstPro {
 
 public static void main (String[] args){
 
